@@ -7,6 +7,7 @@ This makes data collection an important aspect of today's ecommerce web applicat
 **Features**
 
 _list of features expected to be there in the plugin._
+
 o	Ability to seamlessly integrate with Existing Data Layer API.
 
 o	Ability to configure what data needs to collected and when it has to be collected.
